@@ -1,0 +1,16 @@
+.rmain{
+    height: 120px;
+    width: 100%;
+    background-color: black;
+}
+.r1{
+    height: 500px;
+   display: flex;
+   justify-content: center;
+}
+.he{
+    color: aliceblue;
+    font-size: 50px;
+    word-spacing: 10px;
+    text-align: center;
+}

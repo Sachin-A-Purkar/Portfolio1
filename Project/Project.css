@@ -1,0 +1,45 @@
+.pr1{
+    height: 600px;
+    width: 100%;
+    border-top: 2px black solid;
+    
+}
+.projr{
+    height: 500px;
+    padding-top: 50px;
+    width: 100%;
+}
+.projc1{
+    height: 500px;
+    float: left;
+}
+.projc2{
+    height: 500px;
+    float: right;
+    padding-left: 70px;
+    text-align: justify;
+}
+.srow{
+    height: 100%;
+}
+
+#heading{
+    font-size: 40px;
+    color: #FEA116;
+    margin-top: 20px;
+    margin-left: 26%;
+    margin-bottom: 30px;
+}
+#desc{
+    height: 100px;
+    width: 600px;
+    font-weight: 500;
+}
+span{
+    font-size: 25px;
+    font-weight: 500;
+}
+.box{
+    border: 8px solid whitesmoke;
+    box-shadow: 10px 10px lightblue;
+}

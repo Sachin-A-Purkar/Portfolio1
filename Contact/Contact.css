@@ -1,0 +1,17 @@
+.ng{
+    height: 467px;
+    width: 99%;
+    border-top: 2px black solid;
+    
+    align-items: center;
+}
+.rc{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+.heading2{
+    font-size: 60px;
+    font-weight: 700;
+    color: black;
+}

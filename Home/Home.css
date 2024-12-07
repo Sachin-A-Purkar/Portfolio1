@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Indie+Flower&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Indie+Flower&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&family=Varela+Round&display=swap');
+.ho1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .hb1 {
+    text-align: center;
+  }
+  
+  .t1{
+    font-family: "Sour Gummy", sans-serif;
+    font-size: 30px;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    font-variation-settings:
+      "wdth" 100;
+  }
+  .t2{
+    font-family: "Varela Round", serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 60px;
+  color: black;
+  }
+  .t3{
+    font-size: 20px;
+    font-weight: 500;
+  }
+  .soc{
+    margin-top: 30px;
+    display: flex;
+    position: relative;
+    padding-left: 40px;
+  }
+  .ic {
+    font-size: 40px;
+  }
+  .ic:hover{
+    transform: scale(1.25); 
+    transition: transform 0.2s ease;
+  }
+  .don{
+    
+    margin-top: 40px;
+  }
+  .bt{
+    margin-right: 20px;
+  }

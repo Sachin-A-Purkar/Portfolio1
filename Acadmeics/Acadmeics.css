@@ -1,0 +1,48 @@
+.ac12{
+    height: 520px;
+    width: 100%;
+    border-top: 2px black solid;
+    background-color: rgb(27, 28, 29);
+    
+    
+}
+.acrow1{
+    height: 150px;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+}
+.acrow2{
+    height: 400px;
+    width: 90%;
+    margin-left: 5%;
+    
+    justify-content: space-around;
+}
+.text{
+    color: white;
+}
+.card{
+    height: 300px;
+    
+    padding-top: 20px;
+    border-radius: 6px;
+    border: 2px solid #4daafc;
+    background-color:rgb(27, 28, 29);
+}
+.card:hover{
+    box-shadow: 0 4px 8px 0 #4daafc, 0 6px 20px 0 #4daafc;
+}
+span{
+    font-size: 18px;
+    font-weight: 500;
+}
+.butn{
+    height: 30px;
+    width: 140px;
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-left: 5px;
+}
